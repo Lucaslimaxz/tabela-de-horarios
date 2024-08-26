@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+}
+ 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+ 
+th, td {
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 8px;
+}
+ 
+th {
+    background-color: #ffffff;
+}
+ 
+.intervalo {
+    background-color: #bde0b1;
+}
+ 
+.aula1 {
+    background-color: #9cdadf;
+}
+ 
+.aula2 {
+    background-color: #6095c5;
+}
+ 
+.aula3 {
+    background-color: #4d3684;
+}
+ 
+.aula4 {
+    background-color: #c0a557;
+}
+ 
+.aula5 {
+    background-color: #ba5b84;
+}
+div.outer p {
+    color: orange;
+  }
+  div:not(.outer) p {
+    color: lime;
+  }
+ 
